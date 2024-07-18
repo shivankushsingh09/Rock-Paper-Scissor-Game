@@ -1,2 +1,3 @@
-# Rock-Paper-Scissor-Game
-The “Rock, Paper, Scissors” is a fun and interactive command-line game developed using Python. This game is a variation of the classic “Snake, Water, Gun Game” game, where players compete against the computer.
+## Introduction
+
+The “Rock, Paper, Scissors” game is a classic hand game that is often used as a simple decision-making tool. In this Python project, we bring this timeless game to the digital world, allowing players to compete against the computer in a fun and interactive way.
