@@ -26,13 +26,13 @@ To run the Rock Paper Scissor game, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shivankushsingh09/Rock-Paper-Scissor-Game.git
+    git clone https://github.com/shivankushsingh09/Rock-Paper-Scissor-Game.git
    ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Rock-Paper-Scissor-game
+  cd Rock-Paper-Scissor-game
 ```
 
 3. Ensure you have Python installed. The game is compatible with Python 3.x. You can download it from python.org.
@@ -40,7 +40,7 @@ cd Rock-Paper-Scissor-game
 4. **Run the game:**
 
 ```bash
-python Rock_Paper_Scissor.py
+  python Rock_Paper_Scissor.py
 ```
 
 ## Usage
@@ -80,26 +80,27 @@ The project is organized as follows:
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch
+
+2. **Create a new branch**
 
 ```bash
   git checkout -b feature/your-feature
 ```
 
-3. Make your changes and commit them
+3. **Make your changes and commit them**
 
 ```bash
-git commit -am 'Add new feature'
+  git commit -am 'Add new feature'
 ```
 
-4. Push to the branch
+4. **Push to the branch**
 
 ```bash
-git push origin feature/your-feature
+  git push origin feature/your-feature
 ```
 
 5. Create a new Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the [License](#license) file for details.
+This project is licensed under the MIT License. See the [License](https://github.com/shivankushsingh09/Rock-Paper-Scissor-Game?tab=MIT-1-ov-file) file for details.
