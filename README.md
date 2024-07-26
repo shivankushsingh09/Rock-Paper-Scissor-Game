@@ -32,7 +32,7 @@ To run the Rock Paper Scissor game, follow these steps:
 2. Navigate to the project directory:
 
 ```
-cd rock-paper-scissor-game
+cd Rock-Paper-Scissor-game
 
 ```
 
@@ -41,7 +41,7 @@ cd rock-paper-scissor-game
 4. Run the game:
 
 ```
-python rock_paper_scissor.py
+python Rock_Paper_Scissor.py
 
 ```
 
@@ -68,7 +68,7 @@ The game follows these simple rules:
 
 The project is organized as follows:
 
-- rock_paper_scissor.py: The main Python script containing the game logic.
+- Rock_Paper_Scissor.py: The main Python script containing the game logic.
 - README.md: This file.
 
 ## Main File: rock_paper_scissor.py
@@ -89,4 +89,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [License](#license) file for details.
